@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi there, I'm Devanshee 👋
 
-<!--
-**devanshee12/devanshee12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science Student at VIT Bhopal  
+📊 Aspiring Data Analyst with a passion for uncovering insights from data  
+💻 Skilled in Python, Pandas, NumPy, and data visualization tools
 
-Here are some ideas to get you started:
+## 🔧 Technologies & Tools
+- Programming: Python, SQL
+- Data Analysis: Pandas, NumPy, Matplotlib, Seaborn
+- Visualization: Tableau, Power BI
+- Others: Git, GitHub, Jupyter Notebook
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📈 GitHub Stats
+![Devanshee's GitHub stats](https://github-readme-stats.vercel.app/api?username=devanshee12&show_icons=true&theme=radical)
+
+## 📫 Connect with me
+- [LinkedIn](https://www.linkedin.com/in/devanshee-shukla-244068252/)
